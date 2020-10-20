@@ -1,10 +1,10 @@
 ---
 layout: post
-title: First Blog Post
+title: Welcome to Datapoint
 published: true
 ---
-## This is your first blog with Jekyll
-### Congratulations!
+## This is a trial run for a comprehensive project repository
+### Author: Brandon Shuey
 
 
 
